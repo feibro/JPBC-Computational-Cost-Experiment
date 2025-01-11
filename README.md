@@ -1,4 +1,4 @@
-1.Use IntelliJ IDEA to import Java Pairing-Based Cryptography (JPBC) library
+1.Use IntelliJ IDEA Community Edition to import Java Pairing-Based Cryptography (JPBC) library
 
 2.Import the files
 
